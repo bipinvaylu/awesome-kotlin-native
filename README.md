@@ -1,7 +1,10 @@
 # Awesome-Kotlin-Multiplatform
 FKA: [Awesome-Kotlin-Native](https://github.com/bipinvaylu/awesome-kotlin-native)
 
-A curated list of Kotlin/Native and Multiplatform [libraries](#libraries) & [resouces](#resouces) that support full stack: Mobile(Android/iOS), Web(JavaScript), Backend and Desktop.
+![Awesome Kotlin Multiplaform Image](https://github.com/bipinvaylu/awesome-kotlin-multiplatform/blob/master/awesome-kotlin-multiplatform.jpeg)
+
+# About
+A curated list of Kotlin Multiplatform [libraries](#libraries) & [resources](#resources) that support full stack: Mobile(Android/iOS), Web(JavaScript), Backend and Desktop.
 
 # Contents
 * [Libraries](#libraries)
