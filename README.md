@@ -1,10 +1,8 @@
-# Awesome-Kotlin-Multiplatform
-FKA: [Awesome-Kotlin-Native](https://github.com/bipinvaylu/awesome-kotlin-native)
+# Kotlin-Native-Awesome
 
-![Awesome Kotlin Multiplaform Image](https://github.com/bipinvaylu/awesome-kotlin-multiplatform/blob/master/awesome-kotlin-multiplatform.jpeg)
+This repository will be archived soon and we are now moving to new repository which will have all the [Awesomeness of Kotlin Multiplatform](https://github.com/bipinvaylu/awesome-kotlin-multiplatform), Which means Native + JVM + JS.
 
-# About
-A curated list of Kotlin Multiplatform [libraries](#libraries) & [resources](#resources) that support full stack: Mobile(Android/iOS), Web(JavaScript), Backend and Desktop.
+A curated list of Kotlin/Native and Multiplatform [libraries](#libraries) & [resouces](#resouces) that support full stack: Mobile(Android/iOS), Web(JavaScript), Backend and Desktop.
 
 # Contents
 * [Libraries](#libraries)
@@ -28,4 +26,4 @@ A curated list of Kotlin Multiplatform [libraries](#libraries) & [resources](#re
 - Kotlin-Native learning resouces
 
 ## Contributing
-Your contributions are always welcome! [Please read the contribution guidelines](https://github.com/bipinvaylu/awesome-kotlin-multiplatform/blob/master/contributing.md#contribution-guidelines) first.
+Your contributions are always welcome! [Please read the contribution guidelines](https://github.com/bipinvaylu/awesome-kotlin-native/blob/master/contributing.md#contribution-guidelines) first.
